@@ -68,7 +68,3 @@ private:
 
 vector<Point> temp_contour;
 
-extern MATCHINGSHAPE_API int nMatchingShape;
-
-extern MATCHINGSHAPE_API int fnMatchingShape(void);
-

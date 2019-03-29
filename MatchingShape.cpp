@@ -46,12 +46,6 @@ int main()
     return nRetCode;
 }
 
-int fnMatchingShape()
-{
-
-	return 0;
-}
-
 bool CMatchingShape::parameter_initialize(int morph_size_, 
 	int morph_iter1_, int morph_iter2_, int blur_iter_, int threshold_, int threshold_mode_)
 {
